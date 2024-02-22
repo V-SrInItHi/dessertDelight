@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "roboto", sans-serif;
+  background-color: rgba(174, 171, 221, 0.822);
+}
+.explore{
+  background-color: rgb(184, 149, 218);
+  padding-top: 30px;
+  height:15rem;
+  margin:auto;
+  text-align:center
+}
+.explore h1{
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+.explore h2{
+  font-size: 17px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  padding-top: 15px;
+  padding-bottom:25px;
+}
+.Home-search-bar{
+  padding-top:100px;
+  border-radius: 100px;
+}

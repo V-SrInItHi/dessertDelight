@@ -1,0 +1,37 @@
+.search-box{
+    display: flex;
+            padding: 15px;
+            height: 3rem;
+            width: 60%;
+            justify-content: center;
+            align-items: center;
+            background-color:white;
+            opacity:0.5;
+            box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.2); /* Add a subtle box shadow for depth */
+            margin: auto;
+            border-radius: 10px;
+        }
+.search-bar {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    border-radius: px;
+    outline: none;
+    font-size: 16px;
+    background: transparent;
+justify-content: center;
+}
+
+.search-icon {
+    font-size: 10px;
+    margin-right: 10px; 
+  }
+.search-btn {
+    background: transparent;
+    border: none;
+    padding: 10px 0px;
+    border-radius: 0px;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
